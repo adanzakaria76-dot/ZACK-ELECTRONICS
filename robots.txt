@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zack-electronics.vercel.app/sitemap.xml
